@@ -1,0 +1,16 @@
+langchain
+langgraph
+langchain-openai
+langchain-community
+langchain-chroma
+langchain-text-splitters
+openai
+requests
+duckduckgo-search
+python-dotenv
+streamlit
+chromadb
+beautifulsoup4
+unstructured
+pydantic
+typing-extensions
